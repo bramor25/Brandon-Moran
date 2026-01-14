@@ -10,20 +10,27 @@
 - Raspberry Pi & Arduino
 - Git & GitHub
 
-## 📂 Featured Projects
-### 🔹 Automated Hardware Test & Data Acquisition System
-- Raspberry Pi–based test automation
-- Python scripts for data logging and pass/fail logic
-- Sensors, relays, and hardware interfacing
+## 🔧 Featured Projects
 
-### 🔹 Python Bill Splitter
-- Beginner-friendly Python project
-- Input validation and formatted output
+### 🛠️ Automated Hardware Test & Data Acquisition System
+- Raspberry Pi–based test automation platform  
+- Python scripts for sensor data logging and pass/fail evaluation  
+- Relay control, hardware interfacing, and test reporting  
 
-### 🔹 Arduino Countdown Timer
-- 7-segment display
-- Button control logic
-- Beginner embedded project
+### 🤖 Mini Tank Line-Following Robot
+- Arduino-based tracked robot with autonomous navigation  
+- Infrared sensor integration for line tracking  
+- Real-time motor control and embedded decision logic  
+
+### 🖥️ Raspberry Pi HomeLab Server
+- Self-hosted cloud and services using Raspberry Pi 5  
+- Docker, Linux administration, and network configuration  
+- Data storage, backups, and system monitoring  
+
+### 🎮 Bluetooth-Controlled Robotic Arm
+- Wireless robotic arm control using Bluetooth communication  
+- Real-time command processing and servo actuation  
+- Embedded hardware & software integration  
 
 ## 📈 Goals
 - Entry-level Test Engineer / Controls Engineer / Field Service Engineer
