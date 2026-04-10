@@ -17,17 +17,13 @@
 - Python scripts for sensor data logging and pass/fail evaluation  
 - Relay control, hardware interfacing, and test reporting  
 
-### 🤖 Mini Tank Line-Following Robot
-- Arduino-based tracked robot with autonomous navigation  
-- Infrared sensor integration for line tracking  
-- Real-time motor control and embedded decision logic  
 
 ### 🖥️ Raspberry Pi HomeLab Server
 - Self-hosted cloud and services using Raspberry Pi 5  
 - Docker, Linux administration, and network configuration  
 - Data storage, backups, and system monitoring  
 
-### 🎮 Bluetooth-Controlled Robotic Arm
+### 🎮 JoyStick/Ping Controlled Robotic Arm
 - Wireless robotic arm control using Bluetooth communication  
 - Real-time command processing and servo actuation  
 - Embedded hardware & software integration  
