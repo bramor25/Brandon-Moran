@@ -1,6 +1,6 @@
 # Brandon-Moran
 
- Electronics Engineering Technology (EET) Student  
+ Electrical Engineering Technology (EET) Student  
  Savannah State University | Expected Graduation: May 2026
 
 ## 🔧 Skills
